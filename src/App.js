@@ -1,17 +1,11 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
-import courses from "../src/fakedata/fakedata.js";
+import Package from './components/Package/Package';
 
 function App() {
   return (
-    <div className="App">
-      <h1>his</h1>
-      {
-        
-      }
-      
-
+    <div >
+      <Package></Package>
     </div>
   );
 }
