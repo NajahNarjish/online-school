@@ -11,12 +11,12 @@ const Package = () => {
         if(cart.indexOf(course) < 0){
             const newCartArray = [...cart, course];
             setCart(newCartArray);
-        }   
+        }  
     };
-  
-  
+    
     return (
-        <div className="container">
+        
+        <div className="container package-div">
             <div className="row course_part">
                 <div className="col-md-9 course_names ">
                     <div className="row">

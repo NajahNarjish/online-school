@@ -1,7 +1,14 @@
 .card-content{
-    height:350px;
+    height:300px;
 }
 
 .enroll-btn{
     cursor: pointer;
+}
+
+.each-card{
+    background-color: rgb(217, 240, 240);
+    border-radius: 10px;
+    border: none;
+    box-shadow:  10px 5px 5px gray;
 }

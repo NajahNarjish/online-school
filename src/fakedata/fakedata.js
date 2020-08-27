@@ -4,105 +4,121 @@ var courses = [
         Instructor: "Robert Ross",
         Price_USD: 10,
         Skill_level: "Beginner",
-        Course_ID: 101
+        Course_ID: 101,
+        Image: "https://imgur.com/wnT7d8v"
     },
     {   Course_name: 'Basic CSS for Beginners',
         Course_duration: "1 month",
         Instructor: "Tessy Perry",
         Price_USD: 15,
         Skill_level: "Beginner",
-        Course_ID: 102
+        Course_ID: 102,
+        Image: "https://imgur.com/FZhDEAB"
     },
     {   Course_name: 'Basic JavaScript for Beginners',
         Course_duration: "2 months",
         Instructor: "Patric Peter",
         Price_USD: 20,
         Skill_level: "Beginner",
-        Course_ID: 103
+        Course_ID: 103,
+        Image: "https://imgur.com/7vLtd9X"
     },
     {   Course_name: 'Detailed HTML',
         Course_duration: "1 month",
         Instructor: "Robert Depp",
         Price_USD: 20,
         Skill_level: "Intermediate",
-        Course_ID: 104
+        Course_ID: 104,
+        Image: "https://imgur.com/nBsMO8z"
     },
     {   Course_name: 'Detailed CSS',
         Course_duration: "1 month",
         Instructor: "Smitta Khan",
         Price_USD: 15,
         Skill_level: "Intermediate",
-        Course_ID: 105
+        Course_ID: 105,
+        Image: "https://imgur.com/FZhDEAB"
+
     },
     {   Course_name: 'Detailed JavaScript',
         Course_duration: "1.5 month",
         Instructor: "Debby Winslet",
         Price_USD: 20,
         Skill_level: "Intermediate",
-        Course_ID: 106
+        Course_ID: 106,
+        Image: "https://imgur.com/7vLtd9X"
     },
     {   Course_name: 'Bootstrap',
         Course_duration: "1 month",
         Instructor: "Robert Ross",
         Price_USD: 12,
         Skill_level: "Beginner",
-        Course_ID: 107
+        Course_ID: 107,
+        Image: "https://imgur.com/7zjh0R5"
     },
     {   Course_name: 'All about JQuery',
         Course_duration: "1 month",
         Instructor: "Tessy Perry",
         Price_USD: 8,
         Skill_level: "Beginner",
-        Course_ID: 108
+        Course_ID: 108,
+        Image: "https://imgur.com/7zjh0R5"
     },
     {   Course_name: 'Combining HTML, CSS and JavaScript',
         Course_duration: "2 months",
         Instructor: "Ketty Smith",
         Price_USD: 20,
         Skill_level: "Intermediate",
-        Course_ID: 109
+        Course_ID: 109,
+        Image: "https://imgur.com/7zjh0R5"
     },
     {   Course_name: 'Fun JS Practice Problems',
         Course_duration: "1 month",
         Instructor: "Abida Rahman",
         Price_USD: 15,
         Skill_level: "Junior",
-        Course_ID: 110
+        Course_ID: 110,
+        Image: "https://imgur.com/7zjh0R5"
     },
     {   Course_name: 'Welcome to React',
         Course_duration: "2 months",
         Instructor: "Robert Ross",
         Price_USD: 23,
         Skill_level: "Beginner",
-        Course_ID: 111
+        Course_ID: 111,
+        Image: "https://imgur.com/7zjh0R5"
     },
     {   Course_name: 'React meets Bootstrap',
         Course_duration: "1 month",
         Instructor: "Patricia Perk",
         Price_USD: 19,
         Skill_level: "Intermediate",
-        Course_ID: 112
+        Course_ID: 112,
+        Image: "https://imgur.com/7zjh0R5"
     },
     {   Course_name: 'A to Z of Github',
         Course_duration: "0.5 month",
         Instructor: "Kabita Shaha",
         Price_USD: 10,
         Skill_level: "Intermediate",
-        Course_ID: 113
+        Course_ID: 113,
+        Image:"https://imgur.com/7zjh0R5"
     },
     {   Course_name: 'Welcome to Marketplace',
         Course_duration: "2 months",
         Instructor: "Will Stenon",
         Price_USD: 15,
         Skill_level: "Senior",
-        Course_ID: 114
+        Course_ID: 114,
+        Image: "https://imgur.com/7zjh0R5"
     },
     {   Course_name: 'Job market Interview',
         Course_duration: "1 month",
         Instructor: "Rana Masud",
         Price_USD: 10,
         Skill_level: "Interview",
-        Course_ID: 115
+        Course_ID: 115,
+        Image:"https://imgur.com/7zjh0R5"
     },
 ];
 export default courses;

@@ -7,7 +7,7 @@ const SelectedCourse = (props) => {
         <div className="selected_course">
             <h6>{Course_name}</h6>
             <p>${Price_USD}</p>
-            <small  className="delete-btn">Delete</small> 
+            <small className="delete-btn">Delete</small> 
         </div>
     );
 };
